@@ -50,7 +50,7 @@ public class HJ13 {
             StringBuilder sb = new StringBuilder();
             char[] chars = (str + " ").toCharArray();
             int len = str.length();
-            // 碰到空格就将当前测试
+            // 碰到空格就将当前
             int first = 0;
             int last = len;
             char[] newchar = new char[len];
