@@ -1,5 +1,8 @@
 package niuke.top101.linkedlist;
 
+/**
+ * 链表内指定区间反转
+ */
 public class BM2 {
 
     public ListNode reverseBetween(ListNode head, int m, int n) {

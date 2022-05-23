@@ -1,5 +1,8 @@
 package niuke.top101.linkedlist;
 
+/**
+ * 反转链表
+ */
 public class BM1 {
     public ListNode ReverseList(ListNode head) {
         if (head == null) {
